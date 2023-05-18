@@ -1,19 +1,54 @@
-body{
-    background-color: #cccccc;
+
+.tituloPrincipal{
+    padding-left: 30px;
 }
 
-h1,p{
+.divPrincipal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+}
+
+.parrafo{
+    font-size: 20px;
     text-align: center;
 }
 
-h1{
-    font-size: 50px;
+.subtitulo{
+    font-size: 30px;
+    text-align: center;
+}
+em strong{
+    color: red;
 }
 
-p{
+#mision{
     font-size: 20px;
 }
 
-em strong{
-    color: red;
+#banner{
+    width: 100%;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferenciales{
+    padding: 30px;
+}
+
+.imgDiferenciales{
+    width: 50%;
+}
+
+.listaDiferenciales{
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
